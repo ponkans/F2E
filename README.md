@@ -7,7 +7,7 @@
 原创文章每周最少两篇，公众号首发，比博客早一到两篇。
 
 <p align="center">
-  <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="#微信"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-接水怪-lightgrey.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://me.csdn.net/kl1106"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
@@ -15,7 +15,7 @@
   <a href="https://my.oschina.net/u/4438777"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
   <a href="https://www.jianshu.com/u/bf95181e4a36"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="投稿"></a>
   <a href="https://www.zhihu.com/people/jiushuiguai"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
-  <a href="https://segmentfault.com/u/jieshuiguai"><img src="https://img.shields.io/badge/segmentfault-思否-9cf" alt="投稿"></a>
+  <a href="https://segmentfault.com/u/jieshuiguai"><img src="https://img.shields.io/badge/segmentfault-%E6%80%9D%E5%90%A6-9cf" alt="投稿"></a>
 </p>
 
 

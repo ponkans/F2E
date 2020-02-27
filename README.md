@@ -7,14 +7,14 @@
 原创文章每周最少两篇，公众号首发，比博客早一到两篇。
 
 <p align="center">
-  <a href="#微信"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-接水怪-lightgrey.svg" alt="公众号"></a>
-  <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+  <a href="#微信"><img src="https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-blue.svg" alt="微信群"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%8E%A5%E6%B0%B4%E6%80%AA-lightgrey.svg" alt="公众号"></a>
+  <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="公众号"></a>
   <a href="https://me.csdn.net/kl1106"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://www.cnblogs.com/jieshuiguai/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
-  <a href="https://my.oschina.net/u/4438777"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
-  <a href="https://www.jianshu.com/u/bf95181e4a36"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="投稿"></a>
-  <a href="https://www.zhihu.com/people/jiushuiguai"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
+  <a href="https://www.cnblogs.com/jieshuiguai/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-important.svg" alt="投稿"></a>
+  <a href="https://my.oschina.net/u/4438777"><img src="https://img.shields.io/badge/oschina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="投稿"></a>
+  <a href="https://www.jianshu.com/u/bf95181e4a36"><img src="https://img.shields.io/badge/jianshu-%E7%AE%80%E4%B9%A6-critical" alt="投稿"></a>
+  <a href="https://www.zhihu.com/people/jiushuiguai"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-informational" alt="投稿"></a>
   <a href="https://segmentfault.com/u/jieshuiguai"><img src="https://img.shields.io/badge/segmentfault-%E6%80%9D%E5%90%A6-9cf" alt="投稿"></a>
 </p>
 

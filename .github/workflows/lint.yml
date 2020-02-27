@@ -19,5 +19,5 @@ jobs:
 
       - name: Markdown lint
         run: |
-          npm install lint-md-cli
+          npm install -g lint-md-cli
           lint-md .

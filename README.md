@@ -96,7 +96,7 @@
   
 - 项目实战
 
-  - 可扩展 Vue 瀑布流
+  - [《前端面试加分项目》系列-企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
   - 可视化页面搭建系统结构分析
   - 前端自动化部署实战
   

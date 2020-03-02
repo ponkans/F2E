@@ -94,9 +94,9 @@
   - 经典问题之数组
   - 分治、动态规划、贪心算法
   
-- 项目实战
+- 前端项目实战
 
-  - [《前端面试加分项目》系列-企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
+  - [《前端面试加分项目》系列 企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
   - 可视化页面搭建系统结构分析
   - 前端自动化部署实战
   
@@ -108,7 +108,8 @@
   - 面试真题解析
   
 - 程序人生
-
+  
+  - [《程序人生》系列 那些年熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
   - 技术总结&分享
   - 工作经验积累
   - 同事&上下级关系

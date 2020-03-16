@@ -1,6 +1,6 @@
 作为一个在互联网公司面一次拿一次 Offer 的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望地离开，略感愧疚。
 
-在一个寂寞难耐的夜晚，我痛定思痛，决定开始写面试相关的文章，希望能帮助各位读者以后面试势如破竹，对面试官进行 360° 的反击，吊打问你的面试官，让一同面试的竞争者瞠目结舌，疯狂收割大厂**Offer**！（请允许我使用一下夸张的修辞手法，此段摘抄至好兄弟 [敖丙](https://github.com/AobingJava/JavaFamily) 的经典语录）
+在一个寂寞难耐的夜晚，我痛定思痛，决定开始写面试相关的文章，希望能帮助各位读者以后面试势如破竹，对面试官进行 360° 的反击，吊打问你的面试官，让一同面试的竞争者瞠目结舌，疯狂收割大厂**Offer**！（请允许我使用一下夸张的修辞手法😊）
 
 我会根据下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】获取最新文章或者加我[【微信】](#微信)提意见（别忘记 **Star** 哟）。 
 
@@ -11,14 +11,7 @@
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%8E%A5%E6%B0%B4%E6%80%AA-lightgrey.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="公众号"></a>
   <a href="https://me.csdn.net/kl1106"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://www.cnblogs.com/jieshuiguai/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2%E5%9B%AD-important.svg" alt="投稿"></a>
-  <a href="https://my.oschina.net/u/4438777"><img src="https://img.shields.io/badge/oschina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="投稿"></a>
-  <a href="https://www.jianshu.com/u/bf95181e4a36"><img src="https://img.shields.io/badge/jianshu-%E7%AE%80%E4%B9%A6-critical" alt="投稿"></a>
-  <a href="https://www.zhihu.com/people/jiushuiguai"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-informational" alt="投稿"></a>
-  <a href="https://segmentfault.com/u/jieshuiguai"><img src="https://img.shields.io/badge/segmentfault-%E6%80%9D%E5%90%A6-9cf" alt="投稿"></a>
-  <a href="https://cnodejs.org/user/ponkans"><img src="https://img.shields.io/badge/cnodejs-CNode%20%E7%A4%BE%E5%8C%BA-80bd00" alt="投稿"></a>
 </p>
-
 
 
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-02-26-162108.png)
@@ -29,15 +22,16 @@
 
   - 计算机网络
   - 计算机操作系统与 Linux
+  - [学习 linux 命令，看这篇 2w 多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - 计算机编译原理
-  - 图解 HTTP 协议
+  - [图解 HTTP 协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - 常见设计模式与使用场景分析
   - JavaScript 核心基础与新版本特性
-  - 浏览器工作机制与原理解析
+  - 浏览器核心工作机制与原理解析
   
  - 移动 Web 开发
    
-   - 移动端 Web 与 PC 端 Web 区别与联系
+   - 移动端 Web 与 PC 端区别与联系
    - 深入浅出响应式布局
    - 移动端常见手势事件分析与实践
 
@@ -45,11 +39,11 @@
   - 网络层优化
   - 通过分析渲染过程进行优化
   - 文件方向优化
-  - 前端工程化进行全局考量与优化
+  - 前端工程化流程与细节，效率优化
 
 - 工程化
   - npm 下载原理解析
-  - Node.js 核心基础
+  - [🔥《吊打面试官》系列 Node.js 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
   - Webpack 打包原理与性能优化
   - Docker 底层原理解析及自动化部署实战
 
@@ -57,7 +51,7 @@
   - 前端必知必会的安全问题，以及解决方案解析
 
 - 必会框架
-  - MVVM 核心结构解析
+  - 框架核心思想与设计模式解析
   - Vue.js 基础与进阶实战
   - React.js 基础与进阶实战
   
@@ -67,66 +61,66 @@
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis
-  - 消息队列&Kafka 必知必会
+  - 消息队列 Kafka 必知必会
   - Nginx 必知必会与实战讲解
-  - Egg.js 框架解析
+  - 阿里开源企业级框架 Egg.js 框架解析与实战
   
 - 前沿技术了解与学习
 
   - WebAssembly
-  - 前端 & 客户端未来趋势，Flutter 跨端技术学习
-  - Deno
+  - 大前端未来趋势，Flutter 跨端技术学习
+  - Deno，针对 Node.js 存在的一些问题进行了改进与优化
   - Docker & K8s 
   - Serverless，正迅速发展崛起中
   - 5G 时代的技术革新（前端物联网方向的了解与探究）
   
 - 常用工具集
 
-  - Git 原理与工具流
+  - Git 原理与工具流，工作必备
   - Linux 常用分析工具
-  - Chrome 调试
+  - Chrome 常用调试技巧
   - Node 调试
   
 - 数据结构与算法
 
   - 排序
   - 经典问题之字符串
-  - 经典问题之数组
+  - [《前端基础扫盲》系列 长达8000字的数组总结](https://mp.weixin.qq.com/s/8F-IEQTNsg4sVwriXSH-Zw)
   - 分治、动态规划、贪心算法
   
 - 前端项目实战
 
   - [《前端面试加分项目》系列 企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
-  - 可视化页面搭建系统结构分析
-  - 前端自动化部署实战
+  - 基于 Docker 的前端自动化部署架构与实战
+  - 类阿里云凤蝶的前端可视化页面搭建系统结构分析
   
 - 面试技巧及经历
 
-  - 大厂
-  - 小厂
-  - 面试、简历技巧&经验
-  - 面试真题解析
+  - 如何正确的心态去面试，以及面试中常见的一些问题总结
+  - 如何在有限的篇幅里写好一篇技术简历
+  - 各大厂面试真题解析
   
 - 程序人生
   
   - [《程序人生》系列 那些年熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
-  - 技术总结&分享
-  - 工作经验积累
-  - 同事&上下级关系
-  - 管理者经验分享
+  - 技术总结 & 分享，包含但不限于学习方法
+  - 同事 & 上下级关系如何维护或者说深入
+  - 怎样才算是一名合格的管理者
   
 
 <a name="微信"></a>  <a name="公众号"></a>
 
 <p align="center">
-  <a href=""><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-02-27-130924.jpg" alt="接水怪"></a>
+  <a href=""><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-03-15-131831.png" alt="接水怪"></a>
 </p>
 
 # 关于我
 
-一个在互联网苟且偷生的程序员。
+希望把 codeing 当作一生的事业，而不仅仅是 30 岁的青春🍚
 
-希望跟大家分享职场的一路，一起成长，觉得我不错也记得分享给身边的朋友哟。
+🔥[【程序员人均30k？都是加班狗？】](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
+
+最近开始跟敖丙一起开始视频拍摄，会在这里跟大家一起分享生活，分享技术，欢迎点赞分享~
 
 # 澄清
 

@@ -16,7 +16,7 @@
 
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-02-26-162108.png)
 
-# 📚目录
+# 目录
 
 - 基础核心串讲
 
@@ -48,7 +48,7 @@
   - Docker 底层原理解析及自动化部署实战
 
 - 安全
-  - 前端必知必会的安全问题，以及解决方案解析
+  - 高级前端必知必会的安全问题，以及解决方案
 
 - 必会框架
   - 框架核心思想与设计模式解析
@@ -58,6 +58,7 @@
 - 全栈进阶
 
   - Node.js 进阶高级知识
+  - [🔥《吊打面试官》系列 Node.js 全栈秒杀系统](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis
@@ -85,7 +86,7 @@
 
   - 排序
   - 经典问题之字符串
-  - [《前端基础扫盲》系列 长达8000字的数组总结](https://mp.weixin.qq.com/s/8F-IEQTNsg4sVwriXSH-Zw)
+  - [《前端基础扫盲》系列 长达 8000 字的数组总结](https://mp.weixin.qq.com/s/8F-IEQTNsg4sVwriXSH-Zw)
   - 分治、动态规划、贪心算法
   
 - 前端项目实战
@@ -116,9 +117,9 @@
 
 # 关于我
 
-希望把 codeing 当作一生的事业，而不仅仅是 30 岁的青春🍚
+希望把 Coding 当作一生的事业，而不仅仅是 30 岁的青春🍚
 
-🔥[【程序员人均30k？都是加班狗？】](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
+🔥[【程序员人均 30k？都是加班狗？】](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
 
 最近开始跟敖丙一起开始视频拍摄，会在这里跟大家一起分享生活，分享技术，欢迎点赞分享~
 

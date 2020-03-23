@@ -59,6 +59,7 @@
 
   - Node.js 进阶高级知识
   - [🔥《吊打面试官》系列 Node.js 全栈秒杀系统](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
+  - [🔥《吊打面试官》系列 Node.js 多进程模型](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis
@@ -124,9 +125,7 @@
 最近开始跟敖丙一起开始视频拍摄，会在这里跟大家一起分享生活，分享技术，欢迎点赞分享~
 
 # 近期公众号文章预告
-+ 《吊打面试官》系列 P6 前端必会脚手架/CI 构建能力  
-
-+ 《吊打面试官》系列 秒杀 plus，Node.js 进程，线程深入内核  
++ 《吊打面试官》系列 P6 前端必会脚手架/CI 构建能力   
 
 + 《吊打面试官》系列 P7 必备前端可视化企业级解决方案 
 

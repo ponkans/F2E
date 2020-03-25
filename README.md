@@ -22,9 +22,8 @@
 
   - 计算机网络
   - 计算机操作系统与 Linux
-  - [学习 linux 命令，看这篇 2w 多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - 计算机编译原理
-  - [图解 HTTP 协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
+  - 图解 HTTP 协议
   - 常见设计模式与使用场景分析
   - JavaScript 核心基础与新版本特性
   - 浏览器核心工作机制与原理解析

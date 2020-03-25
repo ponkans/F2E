@@ -43,7 +43,8 @@
 
 - 工程化
   - npm 下载原理解析
-  - [🔥《吊打面试官》系列 Node.js 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
+  - [🔥《大前端进阶 Node.js》系列 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
+  - [🔥《大前端进阶 工程化》系列 P6 必备脚手架 /CI 构建能力](https://mp.weixin.qq.com/s/4HeDZW5ND6-7wHny0J1TQw)
   - Webpack 打包原理与性能优化
   - Docker 底层原理解析及自动化部署实战
 
@@ -58,8 +59,8 @@
 - 全栈进阶
 
   - Node.js 进阶高级知识
-  - [🔥《吊打面试官》系列 Node.js 全栈秒杀系统](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
-  - [🔥《吊打面试官》系列 Node.js 多进程模型](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
+  - [🔥《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
+  - [🔥《大前端进阶 Node.js》系列 多进程模型分析(字节跳动被问)](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis
@@ -128,12 +129,9 @@
 最近开始跟敖丙一起开始视频拍摄，会在这里跟大家一起分享生活，分享技术，欢迎点赞分享~
 
 # 近期公众号文章预告
-+ 《吊打面试官》系列 P6 前端必会脚手架/CI 构建能力   
 
-+ 《吊打面试官》系列 P7 必备前端可视化企业级解决方案 
-
-+ 《吊打面试官》系列 Node.js 消息队列进阶分析  
-
++ 《大前端进阶 工程化》系列 P7 必备前端可视化企业级解决方案 
++ 《吐血整理》系列 前端学习路线  
 # 澄清
 
 所有文章的标题只是一个噱头，我们应该有一颗谦逊的心，希望大家怀着空杯心态好好学习，一起进步。

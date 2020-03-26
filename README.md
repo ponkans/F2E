@@ -111,7 +111,7 @@
   
 - 福利
   - [《吐血整理》系列 大厂前端开发工具集合](https://juejin.im/post/5e78ef4e5188255e2e20f37a)
-  - [《吐血整理》系列 大厂前端组件库工具集合（PC端、移动端、JS、CSS等）](https://juejin.im/post/5e7b70b651882535fb1d5cc4)
+  - [《吐血整理》系列 大厂前端组件库工具集合（PC 端、移动端、JS、CSS 等）](https://juejin.im/post/5e7b70b651882535fb1d5cc4)
   - 《吐血整理》系列 大前端书籍整理推荐
 
 # 联系我 / 公众号 

@@ -2,15 +2,14 @@
 
 在一个寂寞难耐的夜晚，我痛定思痛，决定开始写面试相关的文章，希望能帮助各位读者以后面试势如破竹，对面试官进行 360° 的反击，吊打问你的面试官，让一同面试的竞争者瞠目结舌，疯狂收割大厂**Offer**！（请允许我使用一下夸张的修辞手法😊）
 
-我会根据下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】获取最新文章或者加我[【微信】](#微信)提意见（别忘记 **Star** 哟）。 
+我会根据下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】获取最新文章或者加我[【微信】](#联系我 / 公众号)提意见（别忘记 **Star** 哟）。 
 
 原创文章每周最少两篇，公众号首发，比博客早一到两篇。
 
 <p align="center">
-  <a href="#微信"><img src="https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%8E%A5%E6%B0%B4%E6%80%AA-lightgrey.svg" alt="公众号"></a>
-  <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="公众号"></a>
-  <a href="https://me.csdn.net/kl1106"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
+  <a href="#微信"><img src="https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-blue.svg" alt="联系我 / 公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%8E%A5%E6%B0%B4%E6%80%AA-lightgrey.svg" alt="联系我 / 公众号"></a>
+  <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金"></a>
 </p>
 
 
@@ -126,8 +125,11 @@
 
 # 近期公众号文章预告
 
++ 《大前端进阶 Node.js》系列 P6 前端必会脚手架/CI 构建能力（下）  
++ 《大前端进阶 安全》系列 HTTPS 来龙去脉（跟蚂蚁金服安全专家讨论出的结果）
 + 《大前端进阶 工程化》系列 P7 必备前端可视化企业级解决方案 
 + 《吐血整理》系列 前端学习路线 
++ 《大前端进阶 浏览器》系列 Chrome 多进程架构（理解这个就会理解很多东西，比如常说的重定向，浏览器各进程之间是如何配合实现滴）
 
 # 关于
 

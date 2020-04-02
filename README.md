@@ -41,8 +41,9 @@
 
 - 工程化
   - npm 下载原理解析
-  - [🔥《大前端进阶 Node.js》系列 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
-  - [🔥《大前端进阶 工程化》系列 P6 必备脚手架 /CI 构建能力](https://mp.weixin.qq.com/s/4HeDZW5ND6-7wHny0J1TQw)
+  - [《大前端进阶 Node.js》系列 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
+  - [《大前端进阶 工程化》系列 P6 必备脚手架 /CI 构建能力(上)](https://mp.weixin.qq.com/s/4HeDZW5ND6-7wHny0J1TQw)
+  - [《大前端进阶 工程化》系列 P6 必备脚手架/CI 构建能力(下)](https://mp.weixin.qq.com/s/vgcxF2MSVtbf-phfHI6GHw)
   - Webpack 打包原理与性能优化
   - Docker 底层原理解析及自动化部署实战
 
@@ -58,8 +59,8 @@
 - 全栈进阶
 
   - Node.js 进阶高级知识
-  - [🔥《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
-  - [🔥《大前端进阶 Node.js》系列 多进程模型分析(字节跳动被问)](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
+  - [《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
+  - [《大前端进阶 Node.js》系列 多进程模型分析(字节跳动被问)](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis
@@ -118,7 +119,7 @@
 
 # 联系我 / 公众号 
 
-🔥🔥微信搜索【**接水怪**】或扫描下面二维码回复”加群“，我会拉你进技术交流群。
+🔥微信搜索【**接水怪**】或扫描下面二维码回复”加群“，我会拉你进技术交流群。
 
 讲真的，在这个群，哪怕您不说话，光看聊天记录也是一种成长。（***阿里技术专家、敖丙作者、Java3y、蘑菇街资深前端、蚂蚁金服安全专家***、各路大牛都在）。
 
@@ -128,22 +129,42 @@
 
 # 近期公众号文章预告
 
-+ 《大前端进阶 Node.js》系列 P6 前端必会脚手架/CI 构建能力（下）  
-+ 《大前端进阶 工程化》系列 P7 必备前端可视化企业级解决方案 
++ 《大前端进阶 Node.js》系列 异步非阻塞 IO（上） 
++ 《大前端进阶 工程化》系列 P7 必备前端可视化企业级解决方案（架构篇） 
 + 《大前端进阶 浏览器》系列 Chrome 多进程架构（理解这个就会理解很多东西，比如常说的重定向，浏览器各进程之间是如何配合实现滴）
 + 《吐血整理》系列 前端学习路线 
 
-# 关于
+# 关于&祝福
 
 希望把 Coding 当作一生的事业，而不仅仅是 30 岁的青春🍚~
 
-🔥[【程序员人均 30k？都是加班狗？】](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
+[【程序员人均 30k？都是加班狗？】](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
 
 最近开始跟敖丙一起拍摄视频，会在这里跟大家一起分享生活，分享技术，欢迎点赞分享~
- 
-# 澄清
 
-所有文章的标题只是一个噱头，我们应该有一颗谦逊的心，希望大家怀着空杯心态好好学习，一起进步。
+祝福【司徒正美大大】在二次元的世界能够开心没有烦恼。
+
+祝福小伙伴们都能找到自己心仪的工作，happy work，自律并拥有一个好身体💕
+ 
+# 项目经验&服务器
+
+很多小伙伴说简历没有项目，我帮大家准备了一个项目，教程如下：↓↓↓
+
+项目分上下两个部分，配合源码（公众号回复【脚手架】获取），自己买个服务器操作一遍，完全可以作为跳槽加分项目。
+
+如果所在公司还没有这一套东西，那么你也可以在公司把这套东西搭起来。
+
++ [《大前端进阶 工程化》系列 P6 必备脚手架/CI 构建项目(上)](https://mp.weixin.qq.com/s/4HeDZW5ND6-7wHny0J1TQw)
++ [《大前端进阶 工程化》系列 P6 必备脚手架/CI 构建项目(下)](https://mp.weixin.qq.com/s/vgcxF2MSVtbf-phfHI6GHw)
+
+我和阿里云合作服务器，折扣价比较便宜：89/年，223/3 年，比学生 9.9 每月还便宜，买了搭建项目，熟悉技术栈比较香（老用户用家人账号买就好了，我用我爸的)推荐买三年的划算点，点击图片购买即可
+
+<p align="center">
+  
+</p>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
 
 # 鸣谢列表
 
@@ -159,6 +180,12 @@
   <a href="https://github.com/HiwinCN?tab=repositories">
     <img src="https://avatars0.githubusercontent.com/u/15690319?s=460&v=4" width="45px">
   </a>
+  <a href="https://github.com/LuoYangYY">
+      <img src="https://avatars3.githubusercontent.com/u/10624483?s=460&u=ee9ee2954f0bfa15d218377a21159729b14dfc02&v=4" width="45px">
+  </a>
+  <a href="https://github.com/liwei2222/">
+        <img src="https://avatars2.githubusercontent.com/u/33387749?s=460&u=7f1c9f73813c5e9a294bdf84b97e7780877a58f4&v=4" width="45px">
+    </a>  
 </p>
 
 

@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%8E%A5%E6%B0%B4%E6%80%AA-lightgrey.svg" alt="公众号"></a>
-  <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金"></a>
+  <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities" target="_blank"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金"></a>
 </p>
 
 
@@ -93,6 +93,7 @@
   
 - 前端项目实战
 
+  - [《大前端 基础组件》系列 80 行实现一个网页水印 npm 包](https://mp.weixin.qq.com/s/eKv98GLUmOL-YBpTPE1EnQ)
   - [《前端面试加分项目》系列 企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
   - 基于 Docker 的前端自动化部署架构与实战
   - 类阿里云凤蝶的前端可视化页面搭建系统结构分析
@@ -113,7 +114,7 @@
 - 福利
   - [《吐血整理》系列 大厂前端开发工具集合](https://juejin.im/post/5e78ef4e5188255e2e20f37a)
   - [《吐血整理》系列 大厂前端组件库工具集合（PC 端、移动端、JS、CSS 等）](https://juejin.im/post/5e7b70b651882535fb1d5cc4)
-  - 《吐血整理》系列 大前端书籍整理推荐
+  - [《吐血整理》系列 程序员电子书籍整理（请勿外传）](https://github.com/ponkans/JavaFamily/F2E/master/docs/welfare/电子书.md)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
@@ -162,28 +163,28 @@
 <p align="center">
   
 </p>
-<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
-<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
-<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" target="_blank"><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" target="_blank"><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" target="_blank"><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
 
 # 鸣谢列表
 
 以下排名不分先后!
 
 <p align="left">
-  <a href="https://github.com/40huo?tab=repositories">
+  <a href="https://github.com/40huo?tab=repositories" target="_blank">
     <img src="https://avatars0.githubusercontent.com/u/13835420?s=460&v=4" width="45px">
   </a>
-  <a href="https://github.com/AobingJava">
+  <a href="https://github.com/AobingJava" target="_blank">
     <img src="https://avatars0.githubusercontent.com/u/41898583?s=460&v=4" width="45px">
   </a>
-  <a href="https://github.com/HiwinCN?tab=repositories">
+  <a href="https://github.com/HiwinCN?tab=repositories" target="_blank">
     <img src="https://avatars0.githubusercontent.com/u/15690319?s=460&v=4" width="45px">
   </a>
-  <a href="https://github.com/LuoYangYY">
+  <a href="https://github.com/LuoYangYY" target="_blank">
       <img src="https://avatars3.githubusercontent.com/u/10624483?s=460&u=ee9ee2954f0bfa15d218377a21159729b14dfc02&v=4" width="45px">
   </a>
-  <a href="https://github.com/liwei2222/">
+  <a href="https://github.com/liwei2222/" target="_blank">
         <img src="https://avatars2.githubusercontent.com/u/33387749?s=460&u=7f1c9f73813c5e9a294bdf84b97e7780877a58f4&v=4" width="45px">
     </a>  
 </p>

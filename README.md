@@ -114,7 +114,7 @@
 - 福利
   - [《吐血整理》系列 大厂前端开发工具集合](https://juejin.im/post/5e78ef4e5188255e2e20f37a)
   - [《吐血整理》系列 大厂前端组件库工具集合（PC 端、移动端、JS、CSS 等）](https://juejin.im/post/5e7b70b651882535fb1d5cc4)
-  - [《吐血整理》系列 程序员电子书籍整理（请勿外传）](https://github.com/ponkans/JavaFamily/F2E/master/docs/welfare/电子书.md)
+  - [《吐血整理》系列 程序员电子书籍整理（请勿外传）](https://github.com/ponkans/F2E/blob/master/docs/welfare/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
@@ -132,14 +132,12 @@
 
 + 《大前端进阶 Node.js》系列 异步非阻塞 IO（上） 
 + 《大前端进阶 工程化》系列 P7 必备前端可视化企业级解决方案（架构篇） 
-+ 《大前端进阶 浏览器》系列 Chrome 多进程架构（理解这个就会理解很多东西，比如常说的重定向，浏览器各进程之间是如何配合实现滴）
++ 《大前端进阶 浏览器》系列 Chrome 多进程架构（必会）
 + 《吐血整理》系列 前端学习路线 
 
 # 关于&祝福
 
-希望把 Coding 当作一生的事业，而不仅仅是 30 岁的青春🍚~
-
-[【程序员人均 30k？都是加班狗？】](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
+[【程序员人均 30k？都是加班狗？】（b站）](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
 
 最近开始跟敖丙一起拍摄视频，会在这里跟大家一起分享生活，分享技术，欢迎点赞分享~
 
@@ -153,7 +151,7 @@
 
 项目分上下两个部分，配合源码（公众号回复【脚手架】获取），自己买个服务器操作一遍，完全可以作为跳槽加分项目。
 
-如果所在公司还没有这一套东西，那么你也可以在公司把这套东西搭起来。
+如果你的公司还没有这一套东西，你也可以在公司把这套东西搭起来。
 
 + [《大前端进阶 工程化》系列 P6 必备脚手架/CI 构建项目(上)](https://mp.weixin.qq.com/s/4HeDZW5ND6-7wHny0J1TQw)
 + [《大前端进阶 工程化》系列 P6 必备脚手架/CI 构建项目(下)](https://mp.weixin.qq.com/s/vgcxF2MSVtbf-phfHI6GHw)

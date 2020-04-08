@@ -41,7 +41,6 @@
 
 - 工程化
   - npm 下载原理解析
-  - [《大前端进阶 Node.js》系列 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
   - [《大前端进阶 工程化》系列 P6 必备脚手架 /CI 构建能力(上)](https://mp.weixin.qq.com/s/4HeDZW5ND6-7wHny0J1TQw)
   - [《大前端进阶 工程化》系列 P6 必备脚手架/CI 构建能力(下)](https://mp.weixin.qq.com/s/vgcxF2MSVtbf-phfHI6GHw)
   - Webpack 打包原理与性能优化
@@ -59,8 +58,10 @@
 - 全栈进阶
 
   - Node.js 进阶高级知识
-  - [《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
+  - [《大前端进阶 Node.js》系列 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
+  - [《大前端进阶 Node.js》系列 异步非阻塞（上）](https://mp.weixin.qq.com/s/gEhIa1OW_R61fb4RA6GE0g)
   - [《大前端进阶 Node.js》系列 多进程模型分析(字节跳动被问)](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
+  - [《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis
@@ -93,6 +94,7 @@
   
 - 前端项目实战
 
+  - [《大前端进阶 Node.js》系列 50行实现多进程分页爬虫](https://mp.weixin.qq.com/s/FAtD6F-V-f-UdsM1LYS3eg)
   - [《大前端 基础组件》系列 80 行实现一个网页水印 npm 包](https://mp.weixin.qq.com/s/eKv98GLUmOL-YBpTPE1EnQ)
   - [《前端面试加分项目》系列 企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
   - 基于 Docker 的前端自动化部署架构与实战

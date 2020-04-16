@@ -60,6 +60,7 @@
   - Node.js 进阶高级知识
   - [《大前端进阶 Node.js》系列 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
   - [《大前端进阶 Node.js》系列 异步非阻塞（上）](https://mp.weixin.qq.com/s/gEhIa1OW_R61fb4RA6GE0g)
+  - [《《大前端进阶 Node.js》系列 异步非阻塞（下）》](https://mp.weixin.qq.com/s/G_NMZ8MqFo9FTC0FLcOxCw)
   - [《大前端进阶 Node.js》系列 多进程模型分析(字节跳动被问)](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
   - [《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
   - 数据库基础知识
@@ -94,9 +95,10 @@
   
 - 前端项目实战
 
-  - [《大前端进阶 Node.js》系列 50行实现多进程分页爬虫](https://mp.weixin.qq.com/s/FAtD6F-V-f-UdsM1LYS3eg)
+  - [《大前端进阶 Node.js》系列 50 行实现多进程分页爬虫](https://mp.weixin.qq.com/s/FAtD6F-V-f-UdsM1LYS3eg)
   - [《大前端 基础组件》系列 80 行实现一个网页水印 npm 包](https://mp.weixin.qq.com/s/eKv98GLUmOL-YBpTPE1EnQ)
   - [《前端面试加分项目》系列 企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
+  - [《前端面试加分项目》系列 Electron+Egg.js+MongoDB 解决企业 hosts 切换问题（上）](https://mp.weixin.qq.com/s/4SjXHdLJTOIHifrbwdaTDw)
   - 基于 Docker 的前端自动化部署架构与实战
   - 类阿里云凤蝶的前端可视化页面搭建系统结构分析
   
@@ -132,14 +134,13 @@
 
 # 近期公众号文章预告
 
-+ 《大前端进阶 Node.js》系列 异步非阻塞 IO（上） 
 + 《大前端进阶 工程化》系列 P7 必备前端可视化企业级解决方案（架构篇） 
 + 《大前端进阶 浏览器》系列 Chrome 多进程架构（必会）
 + 《吐血整理》系列 前端学习路线 
 
 # 关于&祝福
 
-[【程序员人均 30k？都是加班狗？】（b站）](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
+[【程序员人均 30k？都是加班狗？】（b 站）](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
 
 最近开始跟敖丙一起拍摄视频，会在这里跟大家一起分享生活，分享技术，欢迎点赞分享~
 

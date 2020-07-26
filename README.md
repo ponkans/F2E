@@ -65,6 +65,7 @@
   - [《《大前端进阶 Node.js》系列 异步非阻塞（下）》](https://mp.weixin.qq.com/s/G_NMZ8MqFo9FTC0FLcOxCw)
   - [《大前端进阶 Node.js》系列 多进程模型分析(字节跳动被问)](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
   - [《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
+  - [《大前端进阶Node.js》系列 内存泄漏（一）](https://mp.weixin.qq.com/s/7d8KE7Iz8vFi8hA3YeXRUg)
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis

@@ -50,7 +50,8 @@
 - 安全
   - 高级前端必知必会的安全问题，以及解决方案
   - [《大前端进阶 安全》系列 全网最透彻 HTTPS（面试常问）](https://mp.weixin.qq.com/s/uUGy94fp3x8khCTR0gZeJA)
-
+- [OPTIONS跨域请求两次原因及解决方案](https://mp.weixin.qq.com/s/_wROgqTmWkCdnj9NIArGjQ)
+  
 - 必会框架
   - 框架核心思想与设计模式解析
   - Vue.js 基础与进阶实战
@@ -106,16 +107,16 @@
 - 面试技巧及经历
 
   - 如何正确的心态去面试，以及面试中常见的一些问题总结
-  - 如何在有限的篇幅里写好一篇技术简历
+  - 如何写好技术简历
   - 各大厂面试真题解析
   
 - 程序人生
-  
+
   - [《程序人生》系列 那些年熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
   - 技术总结 & 分享，包含但不限于学习方法
   - 同事 & 上下级关系如何维护或者说深入
   - 怎样才算是一名合格的管理者
-  
+
 - 福利
   - [《吐血整理》系列 大厂前端开发工具集合](https://juejin.im/post/5e78ef4e5188255e2e20f37a)
   - [《吐血整理》系列 大厂前端组件库工具集合（PC 端、移动端、JS、CSS 等）](https://juejin.im/post/5e7b70b651882535fb1d5cc4)
@@ -133,12 +134,6 @@
 
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-06-06-100533.jpg)
 
-# 近期公众号文章预告
-
-+ 《大前端进阶 工程化》系列 P7 必备前端可视化企业级解决方案（架构篇） 
-+ 《大前端进阶 浏览器》系列 Chrome 多进程架构（必会）
-+ 《吐血整理》系列 前端学习路线 
-
 # 关于&祝福
 
 [【程序员人均 30k？都是加班狗？】（b 站）](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
@@ -148,7 +143,7 @@
 祝福【司徒正美大大】在二次元的世界能够开心没有烦恼。
 
 祝福小伙伴们都能找到自己心仪的工作，happy work，自律并拥有一个好身体💕
- 
+
 # 项目经验&服务器
 
 很多小伙伴说简历没有项目，我帮大家准备了一个项目，教程如下：↓↓↓
@@ -163,7 +158,6 @@
 我和阿里云合作服务器，折扣价比较便宜：89/年，223/3 年，比学生 9.9 每月还便宜，买了搭建项目，熟悉技术栈比较香（老用户用家人账号买就好了，我用我爸的)推荐买三年的划算点，点击图片购买即可
 
 <p align="center">
-  
 </p>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>

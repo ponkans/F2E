@@ -160,7 +160,6 @@
 
 <p align="center">
 </p>
-<a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
 

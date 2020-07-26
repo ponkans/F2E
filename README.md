@@ -141,7 +141,7 @@
 
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-06-06-100533.jpg)
 
-# 关于&祝福
+# 视频&祝福
 
 [【程序员人均 30k？都是加班狗？】（b 站）](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
 

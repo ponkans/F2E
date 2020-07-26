@@ -112,6 +112,7 @@
   
 - 程序人生
 
+  - [生活本不易，流人遂自安](https://mp.weixin.qq.com/s/UaUY1OCr2iu5BBZHGNn0ZQ)
   - [《程序人生》系列 那些年熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
   - 技术总结 & 分享，包含但不限于学习方法
   - 同事 & 上下级关系如何维护或者说深入

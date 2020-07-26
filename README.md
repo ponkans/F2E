@@ -12,7 +12,14 @@
   <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities" ><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金"></a>
 </p>
 
-<img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg" style="display: block;" /><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091737.png" style="display: block;" /><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092025.png" style="display: block;" /><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-093114.png" style="display: block;" /><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092022.png" style="display: block;" /><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092000.png" style="display: block;" /><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091952.png" style="display: block;" /><img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091948.png" style="display: block;" />
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091709.png" style="display: block !important;" /><!---->
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091737.png" style="display: block !important;" /><!---->
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092025.png" style="display: block !important;" /><!---->
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-093114.png" style="display: block !important;" /><!---->
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092022.png" style="display: block !important;" /><!---->
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092000.png" style="display: block !important;" /><!---->
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091952.png" style="display: block !important;" /><!---->
+<img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091948.png" style="display: block !important;" />
 
 # 目录
 
@@ -25,9 +32,9 @@
   - 常见设计模式与使用场景分析
   - JavaScript 核心基础与新版本特性
   - 浏览器核心工作机制与原理解析
-  
+
  - 移动 Web 开发
-   
+
    - 移动端 Web 与 PC 端区别与联系
    - 深入浅出响应式布局
    - 移动端常见手势事件分析与实践
@@ -49,12 +56,12 @@
   - 高级前端必知必会的安全问题，以及解决方案
   - [《大前端进阶 安全》系列 全网最透彻 HTTPS（面试常问）](https://mp.weixin.qq.com/s/uUGy94fp3x8khCTR0gZeJA)
   - [《大前端进阶 安全》系列 OPTIONS 跨域请求两次原因及解决方案](https://mp.weixin.qq.com/s/_wROgqTmWkCdnj9NIArGjQ)
-  
+
 - 必会框架
   - 框架核心思想与设计模式解析
   - Vue.js 基础与进阶实战
   - React.js 基础与进阶实战
-  
+
 - 全栈进阶
 
   - Node.js 进阶高级知识
@@ -70,30 +77,30 @@
   - 消息队列 Kafka 必知必会
   - Nginx 必知必会与实战讲解
   - 阿里开源企业级框架 Egg.js 框架解析与实战
-  
+
 - 前沿技术了解与学习
 
   - WebAssembly
   - 大前端未来趋势，Flutter 跨端技术学习
   - Deno，针对 Node.js 存在的一些问题进行了改进与优化
-  - Docker & K8s 
+  - Docker & K8s
   - Serverless，正迅速发展崛起中
   - 5G 时代的技术革新（前端物联网方向的了解与探究）
-  
+
 - 常用工具集
 
   - Git 原理与工具流，工作必备
   - Linux 常用分析工具
   - Chrome 常用调试技巧
   - Node 调试
-  
+
 - 数据结构与算法
 
   - 排序
   - 经典问题之字符串
   - [《前端基础扫盲》系列 长达 8000 字的数组总结](https://mp.weixin.qq.com/s/8F-IEQTNsg4sVwriXSH-Zw)
   - 分治、动态规划、贪心算法
-  
+
 - 前端项目实战
 
   - [《大前端进阶 Node.js》系列 50 行实现多进程分页爬虫](https://mp.weixin.qq.com/s/FAtD6F-V-f-UdsM1LYS3eg)
@@ -102,13 +109,13 @@
   - [《前端面试加分项目》系列 Electron+Egg.js+MongoDB 解决企业 hosts 切换问题（上）](https://mp.weixin.qq.com/s/4SjXHdLJTOIHifrbwdaTDw)
   - 基于 Docker 的前端自动化部署架构与实战
   - 类阿里云凤蝶的前端可视化页面搭建系统结构分析
-  
+
 - 面试技巧及经历
 
   - 如何正确的心态去面试，以及面试中常见的一些问题总结
   - 如何写好技术简历
   - 各大厂面试真题解析
-  
+
 - 程序人生
 
   - [《程序人生》系列 为什么程序员也有私生活](https://mp.weixin.qq.com/s/6ODkREakcoMP-8ZBDwWpxg)
@@ -125,7 +132,7 @@
 
 <a name="微信"></a>  <a name="公众号"></a>
 
-# 联系我 / 公众号 
+# 联系我 / 公众号
 
 🔥微信搜索【**接水怪**】或扫描下面二维码回复”加群“，我会拉你进技术交流群。
 
@@ -183,5 +190,5 @@
   </a>
   <a href="https://github.com/liwei2222/" >
         <img src="https://avatars2.githubusercontent.com/u/33387749?s=460&u=7f1c9f73813c5e9a294bdf84b97e7780877a58f4&v=4" width="45px">
-    </a>  
+    </a>
 </p>

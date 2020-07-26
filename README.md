@@ -12,12 +12,19 @@
   <a href="https://juejin.im/user/5ba3d3f0f265da0af77517be/activities" ><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金"></a>
 </p>
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091709.png)
+
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091737.png)
+
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092025.png)
-![](https://tu.sioe.cn/gj/qiege/pic/95030264.png)
+
+![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-093114.png)
+
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092022.png)
+
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-092000.png)
+
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091952.png)
+
 ![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-26-091948.png)
 
 # 目录
@@ -54,7 +61,7 @@
 - 安全
   - 高级前端必知必会的安全问题，以及解决方案
   - [《大前端进阶 安全》系列 全网最透彻 HTTPS（面试常问）](https://mp.weixin.qq.com/s/uUGy94fp3x8khCTR0gZeJA)
-- [OPTIONS跨域请求两次原因及解决方案](https://mp.weixin.qq.com/s/_wROgqTmWkCdnj9NIArGjQ)
+  - [《大前端进阶 安全》系列 OPTIONS 跨域请求两次原因及解决方案](https://mp.weixin.qq.com/s/_wROgqTmWkCdnj9NIArGjQ)
   
 - 必会框架
   - 框架核心思想与设计模式解析
@@ -66,10 +73,10 @@
   - Node.js 进阶高级知识
   - [《大前端进阶 Node.js》系列 必知必会必问](https://mp.weixin.qq.com/s/94wxm57cd3fS96gixVAxMA)
   - [《大前端进阶 Node.js》系列 异步非阻塞（上）](https://mp.weixin.qq.com/s/gEhIa1OW_R61fb4RA6GE0g)
-  - [《《大前端进阶 Node.js》系列 异步非阻塞（下）》](https://mp.weixin.qq.com/s/G_NMZ8MqFo9FTC0FLcOxCw)
+  - [《大前端进阶 Node.js》系列 异步非阻塞（下）](https://mp.weixin.qq.com/s/G_NMZ8MqFo9FTC0FLcOxCw)
   - [《大前端进阶 Node.js》系列 多进程模型分析(字节跳动被问)](https://mp.weixin.qq.com/s/wBiBZcdNobDoZbk-cLLyfw)
   - [《大前端进阶 Node.js》系列 双十一秒杀系统(进阶必看)](https://mp.weixin.qq.com/s/uWeAsJ-P253je15A49uKIQ)
-  - [《大前端进阶Node.js》系列 内存泄漏（一）](https://mp.weixin.qq.com/s/7d8KE7Iz8vFi8hA3YeXRUg)
+  - [《大前端进阶 Node.js》系列 内存泄漏（一）](https://mp.weixin.qq.com/s/7d8KE7Iz8vFi8hA3YeXRUg)
   - 数据库基础知识
   - MongoDB/MySQL 实战讲解
   - 缓存 Redis
@@ -117,9 +124,9 @@
   
 - 程序人生
 
-  - [为什么程序员也有私生活](https://mp.weixin.qq.com/s/6ODkREakcoMP-8ZBDwWpxg)
-  - [生活本不易，流人遂自安](https://mp.weixin.qq.com/s/UaUY1OCr2iu5BBZHGNn0ZQ)
-  - [《程序人生》系列 那些年熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
+  - [《程序人生》系列 为什么程序员也有私生活](https://mp.weixin.qq.com/s/6ODkREakcoMP-8ZBDwWpxg)
+  - [《程序人生》系列 生活本不易，流人遂自安](https://mp.weixin.qq.com/s/UaUY1OCr2iu5BBZHGNn0ZQ)
+  - [《程序人生》系列 程序员熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
   - 技术总结 & 分享，包含但不限于学习方法
   - 同事 & 上下级关系如何维护或者说深入
   - 怎样才算是一名合格的管理者
@@ -191,5 +198,3 @@
         <img src="https://avatars2.githubusercontent.com/u/33387749?s=460&u=7f1c9f73813c5e9a294bdf84b97e7780877a58f4&v=4" width="45px">
     </a>  
 </p>
-
-

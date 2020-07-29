@@ -123,18 +123,6 @@
   - [《吐血整理》系列 大厂前端组件库工具集合（PC 端、移动端、JS、CSS 等）](https://juejin.im/post/5e7b70b651882535fb1d5cc4)
   - [《吐血整理》系列 程序员电子书籍整理（请勿外传）](https://github.com/ponkans/F2E/blob/master/docs/welfare/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
 
-<a name="微信"></a>  <a name="公众号"></a>
-
-# 联系我 / 公众号
-
-🔥微信搜索【**接水怪**】或扫描下面二维码回复”加群“，我会拉你进技术交流群。
-
-讲真的，在这个群，哪怕您不说话，光看聊天记录也是一种成长。（***阿里技术专家、敖丙作者、Java3y、蘑菇街资深前端、蚂蚁金服安全专家***、各路大牛都在）。
-
-接水怪也会定期原创，定期跟小伙伴进行经验交流或帮忙看简历。加关注，不迷路，有机会一起跑个步🏃 **↓↓↓**
-
-![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-06-06-100533.jpg)
-
 # 视频&祝福
 
 [【程序员人均 30k？都是加班狗？】（b 站）](https://www.bilibili.com/video/av96544065?from=search&seid=11074237081222262622)
@@ -162,6 +150,25 @@
 </p>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=8klr4ywh&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
+
+# 赞赏码
+
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)。
+<p align="center">
+    <img src="https://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/%E8%B5%9E%E8%B5%8F%E7%A0%81.png" width="450px">
+</p>
+
+<a name="微信"></a>  <a name="公众号"></a>
+
+# 联系我 / 公众号
+
+🔥微信搜索【**接水怪**】或扫描下面二维码回复”加群“，我会拉你进技术交流群。
+
+讲真的，在这个群，哪怕您不说话，光看聊天记录也是一种成长。（***阿里技术专家、敖丙作者、Java3y、蘑菇街资深前端、蚂蚁金服安全专家***、各路大牛都在）。
+
+接水怪也会定期原创，定期跟小伙伴进行经验交流或帮忙看简历。加关注，不迷路，有机会一起跑个步🏃 **↓↓↓**
+
+![](http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-06-06-100533.jpg)
 
 # 鸣谢列表
 

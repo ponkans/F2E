@@ -1,0 +1,36 @@
+{
+  "name": "F2E",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponkans/F2E.git"
+  },
+  "keywords": [
+    "接水怪"
+  ],
+  "author": "接水怪",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponkans/F2E/issues"
+  },
+  "homepage": "https://github.com/ponkans/F2E#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{md,markdown}": [
+      "lint-md --fix",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "lint-md-cli": "^0.1.2",
+    "lint-staged": "^10.2.11"
+  }
+}

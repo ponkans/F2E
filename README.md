@@ -155,7 +155,7 @@
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)。
 <p align="center">
-    <img src="https://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/zsmys.png" width="450px">
+    <img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-29-085833.png" width="450px">
 </p>
 
 <a name="微信"></a>  <a name="公众号"></a>

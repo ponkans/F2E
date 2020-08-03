@@ -24,6 +24,7 @@
   - 图解 HTTP 协议
   - 常见设计模式与使用场景分析
   - JavaScript 核心基础与新版本特性
+  - [《大前端进阶 V8》系列 JavaScript 如何是被执行的？](https://mp.weixin.qq.com/s/iIrekYhl4aVp7lGoH2GL4Q)
   - 浏览器核心工作机制与原理解析
 
  - 移动 Web 开发
@@ -111,7 +112,7 @@
 
 - 程序人生
 
-  - [《程序人生》系列 为什么程序员也有私生活](https://mp.weixin.qq.com/s/6ODkREakcoMP-8ZBDwWpxg)
+  - [《程序人生》系列 程序员的私生活记录](https://mp.weixin.qq.com/s/6ODkREakcoMP-8ZBDwWpxg)
   - [《程序人生》系列 生活本不易，流人遂自安](https://mp.weixin.qq.com/s/UaUY1OCr2iu5BBZHGNn0ZQ)
   - [《程序人生》系列 程序员熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
   - 技术总结 & 分享，包含但不限于学习方法

@@ -99,10 +99,11 @@
 
 - 前端项目实战
 
+  - [《大前端进阶 工程化》系列 P6 必备脚手架 /CI 构建能力(上)](https://mp.weixin.qq.com/s/4HeDZW5ND6-7wHny0J1TQw)
+  - [《大前端进阶 工程化》系列 P6 必备脚手架/CI 构建能力(下)](https://mp.weixin.qq.com/s/vgcxF2MSVtbf-phfHI6GHw)
   - [《大前端进阶 Node.js》系列 50 行实现多进程分页爬虫](https://mp.weixin.qq.com/s/FAtD6F-V-f-UdsM1LYS3eg)
   - [《大前端 基础组件》系列 80 行实现一个网页水印 npm 包](https://mp.weixin.qq.com/s/eKv98GLUmOL-YBpTPE1EnQ)
   - [《前端面试加分项目》系列 企业级可扩展 Vue 瀑布流](https://mp.weixin.qq.com/s/PbpciVrtZksfoJrBOePddA)
-  - [《前端面试加分项目》系列 Electron+Egg.js+MongoDB 解决企业 hosts 切换问题（上）](https://mp.weixin.qq.com/s/4SjXHdLJTOIHifrbwdaTDw)
   - 基于 Docker 的前端自动化部署架构与实战
   - 类阿里云凤蝶的前端可视化页面搭建系统结构分析
 
@@ -119,8 +120,8 @@
   - [《程序人生》系列 熬夜回答读者问题，顺便帮女朋友推荐一下淘宝的岗位，HC 太多，扛不住了啊...](https://mp.weixin.qq.com/s/vDTkAtfJ6pGlKSIFvxTxQA)
   - [《程序人生》系列 七夕快乐](https://mp.weixin.qq.com/s/zoFNKs8Gx1XjSJK_nmUM8A)
   - [《程序人生》系列 程序员熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
-  
-  - 技术总结 & 分享，包含但不限于学习方法
+
+- 技术总结 & 分享，包含但不限于学习方法
   - 同事 & 上下级关系如何维护或者说深入
   - 怎样才算是一名合格的管理者
 
@@ -187,6 +188,9 @@
   <a href="https://github.com/AobingJava" >
     <img src="https://avatars0.githubusercontent.com/u/41898583?s=460&v=4" width="45px">
   </a>
+  <a href="https://github.com/ZhongFuCheng3y" >
+        <img src="https://avatars3.githubusercontent.com/u/33118128?s=460&u=2fdf6f874aba7528ca5e677768a72c377da789d1&v=4" width="45px">
+    </a>  
   <a href="https://github.com/HiwinCN?tab=repositories" >
     <img src="https://avatars0.githubusercontent.com/u/15690319?s=460&v=4" width="45px">
   </a>
@@ -194,6 +198,6 @@
       <img src="https://avatars3.githubusercontent.com/u/10624483?s=460&u=ee9ee2954f0bfa15d218377a21159729b14dfc02&v=4" width="45px">
   </a>
   <a href="https://github.com/liwei2222/" >
-        <img src="https://avatars2.githubusercontent.com/u/33387749?s=460&u=7f1c9f73813c5e9a294bdf84b97e7780877a58f4&v=4" width="45px">
-    </a>
+      <img src="https://avatars2.githubusercontent.com/u/33387749?s=460&u=7f1c9f73813c5e9a294bdf84b97e7780877a58f4&v=4" width="45px">
+  </a>
 </p>

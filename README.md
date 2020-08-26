@@ -50,6 +50,8 @@
   - 高级前端必知必会的安全问题，以及解决方案
   - [《大前端进阶 安全》系列 全网最透彻 HTTPS（面试常问）](https://mp.weixin.qq.com/s/uUGy94fp3x8khCTR0gZeJA)
   - [《大前端进阶 安全》系列 OPTIONS 跨域请求两次原因及解决方案](https://mp.weixin.qq.com/s/_wROgqTmWkCdnj9NIArGjQ)
+  - [《大前端进阶 安全》系列 如何防止公司代码泄漏？](https://mp.weixin.qq.com/s/mHo95Psu4BH8Dvmelw4Xdw)
+  - [《大前端进阶 安全》系列 RSA 算法及 Python 实现](https://mp.weixin.qq.com/s/jVa8LJUz7RZJPTLfSBZLZg)
 
 - 必会框架
   - 框架核心思想与设计模式解析
@@ -114,7 +116,10 @@
 
   - [《程序人生》系列 程序员的私生活记录](https://mp.weixin.qq.com/s/6ODkREakcoMP-8ZBDwWpxg)
   - [《程序人生》系列 生活本不易，流人遂自安](https://mp.weixin.qq.com/s/UaUY1OCr2iu5BBZHGNn0ZQ)
+  - [《程序人生》系列 熬夜回答读者问题，顺便帮女朋友推荐一下淘宝的岗位，HC 太多，扛不住了啊...](https://mp.weixin.qq.com/s/vDTkAtfJ6pGlKSIFvxTxQA)
+  - [《程序人生》系列 七夕快乐](https://mp.weixin.qq.com/s/zoFNKs8Gx1XjSJK_nmUM8A)
   - [《程序人生》系列 程序员熬过的夜](https://mp.weixin.qq.com/s/Af9FxlCt9Fkz4CFPRD8EtQ)
+  
   - 技术总结 & 分享，包含但不限于学习方法
   - 同事 & 上下级关系如何维护或者说深入
   - 怎样才算是一名合格的管理者
@@ -156,7 +161,7 @@
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)。
 <p align="center">
-    <img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-07-29-085833.png" width="450px">
+    <img src="http://jieshuiguai.oss-cn-hangzhou.aliyuncs.com/2020-08-26-100637.png" width="450px">
 </p>
 
 <a name="微信"></a>  <a name="公众号"></a>

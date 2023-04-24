@@ -29,8 +29,8 @@
     ]
   },
   "devDependencies": {
-    "husky": "^4.2.5",
+    "husky": "^8.0.3",
     "lint-md-cli": "^0.1.2",
-    "lint-staged": "^10.2.11"
+    "lint-staged": "^13.2.1"
   }
 }
